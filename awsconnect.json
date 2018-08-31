@@ -1,0 +1,7 @@
+{
+	"host": "fgp-drupal-02.cc0hbqeyyxxw.ca-central-1.rds.amazonaws.com",
+	"ssl": "Amazon RDS",
+	"user": "admin",
+	"password": "password",
+	"database": "gnFGPentries"
+}
